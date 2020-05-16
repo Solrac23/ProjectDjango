@@ -25,7 +25,7 @@ SECRET_KEY = '!39fpnuod)tj2#!@_076=hvr#+%^pihz9x_$7-c!f0fdct7io_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://projectdjango-cs.herokuapp.com/'] # Aqui você irá colocar a sua url. ex.: www.google.com.br
+ALLOWED_HOSTS = ['projectdjango-cs.herokuapp.com'] # Aqui você irá colocar a sua url. ex.: www.google.com.br
 
 
 # Application definition
